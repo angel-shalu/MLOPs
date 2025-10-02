@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/shali/Desktop/DS_Road_Map/10.%20MLOPs/mlruns/138645900332542518/d2b95c7ce518477aa24e26926cea5c88/artifacts
+end_time: 1759121946957
+entry_point_name: ''
+experiment_id: '138645900332542518'
+lifecycle_stage: active
+run_id: d2b95c7ce518477aa24e26926cea5c88
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759121937836
+status: 3
+tags: []
+user_id: shali

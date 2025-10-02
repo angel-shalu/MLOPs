@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/shali/Desktop/DS_Road_Map/10.%20MLOPs/mlruns/575671936488079766/models/m-33a45f8bb01b468395e4a80804bdfb25/artifacts
+creation_timestamp: 1759121850529
+experiment_id: '575671936488079766'
+last_updated_timestamp: 1759121859041
+model_id: m-33a45f8bb01b468395e4a80804bdfb25
+model_type: ''
+name: Logistic Regression
+source_run_id: 3c5b6b711a5e4a5aae358531819cb6ce
+status: 2
+status_message: null

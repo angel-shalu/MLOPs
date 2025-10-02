@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/shali/Desktop/DS_Road_Map/10.%20MLOPs/mlruns/138645900332542518/models/m-dcfb86029ce64e4d9a2e4d8862cacf95/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.4.0
+model_id: m-dcfb86029ce64e4d9a2e4d8862cacf95
+model_size_bytes: 37572
+model_uuid: m-dcfb86029ce64e4d9a2e4d8862cacf95
+prompts: null
+run_id: 2e958051405b43c28f52ee21ec02a61a
+utc_time_created: '2025-09-29 04:58:49.479685'

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/shali/Desktop/DS_Road_Map/10.%20MLOPs/mlruns/138645900332542518/models/m-9081ce7937ff49b0851ca40926ab904d/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.3
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.4
+mlflow_version: 3.4.0
+model_id: m-9081ce7937ff49b0851ca40926ab904d
+model_size_bytes: 127225
+model_uuid: m-9081ce7937ff49b0851ca40926ab904d
+prompts: null
+run_id: eced279c4c8f40cf945ae352e81bca34
+utc_time_created: '2025-09-29 04:59:07.637692'

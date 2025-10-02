@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/shali/Desktop/DS_Road_Map/10.%20MLOPs/mlruns/138645900332542518/models/m-2999904966f7406f96f5f9dc4c1d9ecc/artifacts
+creation_timestamp: 1759121918816
+experiment_id: '138645900332542518'
+last_updated_timestamp: 1759121928734
+model_id: m-2999904966f7406f96f5f9dc4c1d9ecc
+model_type: ''
+name: model
+source_run_id: d471b26076f348bda829f39c51732993
+status: 2
+status_message: null
